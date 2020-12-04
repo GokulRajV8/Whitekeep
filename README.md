@@ -9,4 +9,4 @@ Important classes developed during projects
 **resources** - Non programmed files like images and other files   
 **services** - Classes to create objects that has no data but only functions   
 **ui** - Classes to create the UI for the application   
-**utilities** - Classes to perform other functions to support application like logging and contains AppContainer class that contains *main method*
+**utilities** - Classes to support application like logging and contains AppContainer class that contains *main method*
